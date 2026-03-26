@@ -191,5 +191,3 @@ This framework can be easily integrated with:
 ---
 
 
-
-⭐ If you found this helpful, please give this repo a star!
